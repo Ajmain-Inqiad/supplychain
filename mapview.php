@@ -16,7 +16,7 @@ $longtitude = "90.4071984";
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
         <script
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYRKN2Ws4VtVfD6V5HYiddvlcxsv8CODM">
+            src="https://maps.googleapis.com/maps/api/js?key=KEY">
         </script>
     </head>
 

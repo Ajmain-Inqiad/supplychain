@@ -109,6 +109,6 @@ $jsonsave = json_encode($addressarray,  JSON_PRETTY_PRINT);
                 });
               }
          </script>
-         <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYRKN2Ws4VtVfD6V5HYiddvlcxsv8CODM&callback=initMap"></script>
+         <script async defer src="https://maps.googleapis.com/maps/api/js?key=Key&callback=initMap"></script>
      </body>
  </html>

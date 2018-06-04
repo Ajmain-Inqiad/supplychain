@@ -4,9 +4,7 @@ It is online ecommerce website.
 
 In this system, we have 3 users:
 1. admin
-2. employee
-⋅⋅* Manager
-⋅⋅* Supervisor
+2. employee: Manager and Supervisor
 3. client
 
 - Client can order and track minor indoor and ourdoor status and route of product. client can also check estimated arrival time.
