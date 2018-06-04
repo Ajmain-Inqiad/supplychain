@@ -3,11 +3,11 @@
 It is online ecommerce website
 
 In this system, we have 3 users:
-- admin
-- employee
+1. admin
+2. employee
 ⋅⋅⋅Manger
 ⋅⋅⋅Supervisor
-- client
+3. client
 
 Unique Features
 - BrainTree Payment Gateway
