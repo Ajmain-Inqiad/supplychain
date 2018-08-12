@@ -19,5 +19,5 @@ You can check the website from this link:
 
 [OurDeal](http://ourdeal.bid/)
 
-client login: username: ajmain password: ajmain
-manager login: username: john password: john
+-client login: username: ajmain password: ajmain
+-manager login: username: john password: john
