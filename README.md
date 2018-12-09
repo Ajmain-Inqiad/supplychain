@@ -14,7 +14,3 @@ In this system, we have 3 users:
 Unique Features
 - BrainTree Payment Gateway
 - Google Map tracking with route and Estimated Arrival time of product from current location to client location
-
-You can check the website from this link:
-
-[OurDeal](http://ourdeal.bid/)
